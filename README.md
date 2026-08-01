@@ -15,16 +15,23 @@ I am a Computer Science and Engineering graduate specializing in building robust
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 
 **Frontend & Backend:**  
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 
-**Databases & Tools:**  
+**Databases, Data & Tools:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 
@@ -33,20 +40,20 @@ I am a Computer Science and Engineering graduate specializing in building robust
 ### 🚀 Featured Projects
 
 #### 1. Solar Flux Anomaly Tracker (SFAT)
-A specialized, web-based tracking tool engineered to monitor, log, and visualize specific data anomalies efficiently.
-*   **Overview:** Designed to handle complex data parameters and provide clear, actionable insights through a structured user interface.
+A specialized web application engineered to monitor, log, and visualize specific solar flux data anomalies efficiently.
+*   **Overview:** The system tracks complex data parameters and processes them into a structured, highly responsive user interface to provide clear, actionable data insights. 
 *   **Key Features:** 
-    *   Leveraged TypeScript for strict type-checking, ensuring high reliability and a highly maintainable codebase.
-    *   Architected a responsive frontend to visualize tracking data dynamically.
-*   **Tech Stack:** TypeScript, HTML/CSS, JavaScript.
+    *   Leveraged React and Tailwind CSS to architect a dynamic, scalable frontend for real-time data visualization.
+    *   Utilized TypeScript and JavaScript for strict type-checking and robust backend execution, ensuring high reliability and maintainability.
+*   **Tech Stack:** React, Tailwind CSS, TypeScript, JavaScript.
 
-#### 2. [Your Next Project Name Here]
-*A brief, powerful one-sentence summary of what this application does and the core problem it solves.*
-*   **Overview:** [Explain the main purpose of the project, who it is for, and how it handles data or user interaction].
+#### 2. SegmentPro
+A robust customer segmentation tool built to analyze data and provide actionable business insights without relying on traditional databases.
+*   **Overview:** Engineered an end-to-end Python/Django application that processes customer data and automatically groups them into distinct segments using machine learning algorithms.
 *   **Key Features:**
-    *   [Highlight a specific complex backend feature you built, e.g., API integration, database schema, or authentication].
-    *   [Highlight a frontend feature, e.g., state management, responsive UI, or specific component logic].
-*   **Tech Stack:** [e.g., MERN (MongoDB, Express, React, Node.js), REST APIs].
+    *   Implemented a K-Means clustering algorithm leveraging Pandas, NumPy, and Matplotlib to analyze and visualize customer segments.
+    *   Built out the backend processing entirely in Django, rendering the insights clearly via HTML/CSS on the frontend.
+*   **Tech Stack:** Python, Django, K-Means Algorithm, Pandas, NumPy, Matplotlib, HTML, CSS.
 
 ---
 
