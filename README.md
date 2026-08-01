@@ -64,7 +64,7 @@ When I step away from the keyboard, I am usually focused on pushing my physical 
 
 ### 📫 Let's Connect
 
-Whether it's discussing full-stack web architecture, collaborating on a hackathon, or talking about the latest cricket match at Eden Gardens, I am always open to connecting.
+Looking to collaborate on a hackathon, discuss full-stack web architecture, or explore software engineering opportunities? Feel free to reach out.
 
 *   **LinkedIn:** [linkedin.com/in/arpan-halder](https://linkedin.com/in/arpan-halder)
 *   **Email:** arpanhalderah3@gmail.com
