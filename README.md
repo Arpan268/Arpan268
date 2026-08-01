@@ -15,7 +15,6 @@ I am a Computer Science and Engineering graduate specializing in building robust
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 
 **Frontend & Backend:**  
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
