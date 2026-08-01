@@ -16,7 +16,6 @@ I am a recent Computer Science and Engineering graduate from MAKAUT, specializin
 *   **Database:** MongoDB
 *   **Tools & Version Control:** Git, GitHub, RESTful APIs
 
-*(Tip: You can replace this list with dark-themed shields.io badges later for an even cleaner look)*
 
 ---
 
